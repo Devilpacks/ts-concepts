@@ -1,3 +1,5 @@
+# TypeScript 
+
 Installing typescript localy
 ```
 npm install typescript --save-dev
