@@ -3,8 +3,8 @@ function getFinalPrice(price, discount) {
 }
 console.log(getFinalPrice(100, 10));
 console.log(getFinalPrice(100, 10));
-var age = 25;
+const age = 25;
 function getTax(income) {
     return income * 0.15;
 }
-var yourTax = getTax(50000);
+let yourTax = getTax(50000);
